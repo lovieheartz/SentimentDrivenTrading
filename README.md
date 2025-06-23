@@ -7,6 +7,7 @@
 ## 📊 Harness Market Psychology to Optimize Trading Performance
 
 This project analyzes the relationship between cryptocurrency market sentiment (Fear & Greed Index) and trading performance data to uncover actionable patterns and develop sentiment-aware trading strategies.
+[![Preview](https://raw.githubusercontent.com/lovieheartz/repo/main/images/Flowchart.png)](https://github.com/lovieheartz/repo/raw/main/images/Flowchart.png)
 
 ## 🔑 Key Features
 
