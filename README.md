@@ -50,7 +50,7 @@ This project analyzes the relationship between cryptocurrency market sentiment (
 ### Installation
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/SentimentDrivenTrading.git
+git clone https://github.com/lovieheartz/SentimentDrivenTrading.git
 
 # Navigate to project directory
 cd SentimentDrivenTrading
