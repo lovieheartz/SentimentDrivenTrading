@@ -9,7 +9,7 @@
 This project analyzes the relationship between cryptocurrency market sentiment (Fear & Greed Index) and trading performance data to uncover actionable patterns and develop sentiment-aware trading strategies.
 <p align="center">
   <a href="https://github.com/lovieheartz/SentimentDrivenTrading/raw/main/images/Flowchart.png" title="Click to download full resolution">
-    <img src="https://raw.githubusercontent.com/lovieheartz/SentimentDrivenTrading/main/images/Flowchart.png" alt="Flowchart Preview" width="500"/>
+    <img src="https://raw.githubusercontent.com/lovieheartz/SentimentDrivenTrading/main/images/Flowchart.png" alt="Flowchart Preview" width="350"/>
   </a>
 </p>
 
