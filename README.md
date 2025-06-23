@@ -7,9 +7,15 @@
 ## 📊 Harness Market Psychology to Optimize Trading Performance
 
 This project analyzes the relationship between cryptocurrency market sentiment (Fear & Greed Index) and trading performance data to uncover actionable patterns and develop sentiment-aware trading strategies.
-<a href="https://github.com/lovieheartz/SentimentDrivenTrading/raw/main/images/Flowchart.png" title="Click to download full resolution">
-  <img src="https://raw.githubusercontent.com/lovieheartz/SentimentDrivenTrading/main/images/Flowchart.png" alt="Flowchart Preview" width="500"/>
-</a>
+<p align="center">
+  <a href="https://github.com/lovieheartz/SentimentDrivenTrading/raw/main/images/Flowchart.png" title="Click to download full resolution">
+    <img src="https://raw.githubusercontent.com/lovieheartz/SentimentDrivenTrading/main/images/Flowchart.png" alt="Flowchart Preview" width="500"/>
+  </a>
+</p>
+
+<p align="center">
+  🔍 <em>Click the image to view or download the full-resolution version.</em>
+</p>
 
 ## 🔑 Key Features
 
